@@ -1,0 +1,33 @@
+1. Write a query to concatenate book title, author and display in the following format.
+ example : Let Us C_is_written_by_Yashavant Kanetkar
+
+2. Write a query to display the member id, member name, date of registration and expiry date of the members whose membership expiry date is before APR 2013.
+
+3. Write a query to display the total number of Java books available in library with alias name ‘NO_OF_BOOKS’.
+
+4. Write a query to display the member id, member name, city and membership status who are all having life time membership. Hint: Life time membership status is “Permanent”.
+
+5. Write a query to display the average price of books which is belonging to "PHP" category with alias name “AVERAGEPRICE”.
+
+6. Write a query to display the member id, member name of the members, book code and book title of the books taken by them.
+
+7. Write a query to display the member id, member name, fine range and fine amount of the members whose fine amount is less than 100.
+
+8. Write a Query to display the member id and member name of the members who has not paid any fine in the year 2022.
+
+
+9. Write a query to display the date on which the maximum numbers of books were issued and the number of books issued with alias name “NOOFBOOKS”.
+
+
+10. Write a query to display the book code, title, publish date of the books which is been published in the month of
+December.
+
+
+
+11. Write a query to display the member id, member name and number of remaining books he/she can take with “REMAININGBOOKS” as alias name. Hint: Assuming a member can take maximum 3 books. For example, Ramesh has already taken 2 books; he can take only one book now. Hence display the remaining books as 1 in below format.
+Example:
+MEMBER_ID    MEMBER_NAME       REMAININGBOOKS
+LM001                   RAMESH                          1
+LM002                   MOHAN                           3
+
+12. Write a query to display the member id, member name, due date and date returned of the members who has returned the books after the due date. Hint: Date_return is due date and Date_returned is actual book return date.
